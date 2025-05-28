@@ -1,0 +1,6 @@
+# SSH host keys
+ssh_host_keys/
+
+# Other sensitive files
+*.key
+*.pem 
