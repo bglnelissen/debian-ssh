@@ -78,4 +78,4 @@ This project is open source and available under the MIT License.
 
 ## Credits
 
-Created and maintained by [Bastiaan Nelissen](https://github.com/bglnelissen), a medical professional with a passion for coding and secure infrastructure. Check out my other projects at [github.com/bglnelissen](https://github.com/bglnelissen). 
+Created with ❤️ by [Bastiaan Nelissen](https://github.com/bglnelissen), a medical professional who loves to code. Check out my other projects at [github.com/bglnelissen](https://github.com/bglnelissen). 
