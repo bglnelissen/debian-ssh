@@ -3,4 +3,10 @@ ssh_host_keys/
 
 # Other sensitive files
 *.key
-*.pem 
+*.pem
+
+# Todo directory contents
+todo/todo.txt
+todo/done.txt
+todo/*.txt
+todo/*.sh 
